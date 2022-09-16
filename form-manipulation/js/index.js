@@ -23,7 +23,6 @@ submitButton.addEventListener("click", function (event) {
 
     const countryColumn = document.createElement("td");
     countryColumn.innerText = country.value;
-
     row.append(
         lastNameColumn,
         firstNameColumn,
