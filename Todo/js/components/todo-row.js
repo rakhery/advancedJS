@@ -7,7 +7,7 @@ export function TodoRow(todo) {
     $todoUl.appendChild(
         $titleList
     );
-    if(todo.complete=="true"){
+    if(todo.completed){
         $titleList.innerHTML=todo.title;
     }else
     {
