@@ -5,6 +5,10 @@ const phoneNumber=document.querySelector("#phone_number");
 const country=document.querySelector("#country");
 const submitButton=document.querySelector("#submit_button");
 
+submitButton.addEventListener("click",function(event){
+    event.preventDefault();
+    console.log("Formulaire envoyé!!")
+});
 
 
 
