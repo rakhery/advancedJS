@@ -1,0 +1,25 @@
+div {
+    width: 300px;
+    border: 1px solid grey;
+    background: beige;
+    padding: 50px;
+    margin: 20px;
+}
+
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 8px 8px 8px 8px;
+    background: lightsteelblue;
+    font-size: 18px;
+    transition: 0.2s;
+    list-style-type: none;
+}
+strike{
+    color: red;
+}
+ul li:hover {
+    background: darkcyan;
+}
+
+h1{background: lightsteelblue;}
