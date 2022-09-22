@@ -1,6 +1,6 @@
 # advancedJS
 # Blockchain JS Demo (frontend)
-A web-based demonstration of blockchain concepts Labs. Après la formation jsAvancer
+A web-based demonstration of blockchain concepts Labs. Après la formation advancedJS
 on peut explorer
 Thx Anders. et Christian L.
 Using Pug (ex-Jade)
