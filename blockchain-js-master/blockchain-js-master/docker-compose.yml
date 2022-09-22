@@ -1,0 +1,7 @@
+version: '2'
+services:
+  blockchain-js:
+    build: .
+    image: blockchain-js:latest
+    ports:
+      - "3000:3000"
