@@ -3,7 +3,7 @@
 A web-based demonstration of blockchain concepts Labs. Après la formation advancedJS
 on peut explorer
 Thx Anders. et Christian L.
-Using Pug (ex-Jade)
+Using Pug (ex-Jade) https://pugjs.org/api/getting-started.html
 ## Setup
 Pour obtenir le code:
 
