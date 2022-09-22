@@ -1,5 +1,5 @@
 # Blockchain JS Demo (frontend)
-A web-based demonstration of blockchain concepts Labs. Après la formation jsAvancer
+A web-based demonstration of blockchain concepts Labs. Après la formation advancedJS
 on peut explorer
 Thx Anders. et Christian L.
 Using Pug (ex-Jade)
@@ -65,7 +65,7 @@ Vous pouvez ajuster le "nombre de zéros" requis par la démo en modifiant les d
 
 Parce qu'il y a 16 combinaisons possibles dans une valeur hexadécimale, chaque fois que vous augmentez la difficulté
 par un, vous rendez le puzzle 16 fois plus difficile. Dans mes tests, une difficulté de 6 nécessite un
-maximumNonce bien au-dessus de 500 000 000.
+maximum de combinaisons bien au-dessus de 500 000 000.
 
 Si vous ajustez la difficulté au-dessus de 4, les blocs apparaîtront comme non exctractables car les données de l'app
 suppose 4 zéros pour un bloc signé. Par exemple, sur la page `http://localhost:3000/block`
